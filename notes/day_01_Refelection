@@ -1,0 +1,14 @@
+
+1. What it Google colab
+
+    It is browser based could services which lets us to write and run python code using interactive interface called Jupyter NoteBook. 
+    It provides access to store file directly on google drive, avoid any local setup, has hardware accelerators like GUPs and TPUs. 
+
+2. What is Git and Github
+   Git is a version control system which helps to track any changes in a source code or a file. 
+   Github is cloud based platform allows programmers to store, share and manage their computer source file. 
+   Git is the local software tool used to track changes in your code, while GitHub is an online hosting service that stores those Git repositories in the cloud.
+
+3.Why do ML engineers use libraries like NumPy and Pandas?
+
+Machine Learning (ML) engineers use NumPy and Pandas because they act as the essential data preparation and numerical processing engine that transforms messy, raw data into optimized mathematical formats required by ML models. While Pandas is designed for exploring, cleaning, and manipulating structured tabular data, NumPy handles the heavy, lightning-fast matrix and vector calculations
