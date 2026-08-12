@@ -11,4 +11,6 @@
 
 3.Why do ML engineers use libraries like NumPy and Pandas?
 
-Machine Learning (ML) engineers use NumPy and Pandas because they act as the essential data preparation and numerical processing engine that transforms messy, raw data into optimized mathematical formats required by ML models. While Pandas is designed for exploring, cleaning, and manipulating structured tabular data, NumPy handles the heavy, lightning-fast matrix and vector calculations
+Machine Learning (ML) engineers use NumPy and Pandas because they act as the essential data preparation and numerical 
+processing engine that transforms messy, raw data into optimized mathematical formats required by ML models. 
+While Pandas is designed for exploring, cleaning, and manipulating structured tabular data, NumPy handles the heavy, lightning-fast matrix and vector calculations
